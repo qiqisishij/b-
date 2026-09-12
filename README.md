@@ -1,2 +1,3 @@
-# b-
-SillyTavern Bilibili video player
+# UI
+
+解析、收藏、播放、设置、我的五个页面，以及小窗/沉浸式播放器界面。
