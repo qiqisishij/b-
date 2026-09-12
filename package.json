@@ -1,0 +1,9 @@
+{
+  "name": "b站喵喵乐",
+  "version": "5.0.0",
+  "private": true,
+  "description": "SillyTavern Bilibili video player",
+  "scripts": {
+    "build": "node tools/build.mjs"
+  }
+}
